@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis:7.2.5 
 openjdk:8u92-alpine
+centos:centos7
